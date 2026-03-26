@@ -1,6 +1,12 @@
 # SNAP-Facebook-Ego-Network-dataset
 # Facebook Ego-Network Analysis: Recreating Social Circles
 
+
+**Course:** Data Science, AI and Digital Business  
+**Student Name:** Amna  
+**Student ID:** GH1039590  
+**Submission Date:** March 2026
+
 ### Research Question
 Can community detection algorithms accurately recreate the user's manual 'Circles'?
 
