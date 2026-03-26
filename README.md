@@ -1,2 +1,14 @@
 # SNAP-Facebook-Ego-Network-dataset
-Analyzing social circles in Facebook ego-networks using community detection and diffusion models for B107.
+# Facebook Ego-Network Analysis: Recreating Social Circles
+
+### Research Question
+Can community detection algorithms accurately recreate the user's manual 'Circles'?
+
+### Project Overview
+This project uses the SNAP Facebook dataset to analyze a social ego-network of 333 nodes. 
+We compare human-defined 'Circles' with mathematical communities detected via the Louvain method.
+
+### Key Findings
+* **Small-World Properties:** High clustering and low path length.
+* **Community Accuracy:** The Louvain method effectively identifies structural silos.
+* **Influence:** PageRank identifies the most effective seeds for information diffusion.
